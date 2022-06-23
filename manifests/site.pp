@@ -4,8 +4,7 @@ node default {
    content => This is readme,
    owner => 'root',
  }
- 
- 
+  
 }
 
 node 'master.puppet.vm' {
