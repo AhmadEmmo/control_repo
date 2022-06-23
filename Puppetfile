@@ -1,5 +1,6 @@
 mod 'puppet/nginx', '3.3.0'
 mod 'puppetlabs/stdlib'
+mod 'puppetlabs/apt'
+mod 'stahnma/epel'
 mod 'puppetlabs/concat'
-mod 'samuelson/dockeragent'
 mod 'puppetlabs-docker', '4.4.0'
